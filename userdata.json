@@ -22,5 +22,11 @@
         "key": "Efat124",
         "expirydate": "15-06-2030",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "e508a3749e1af3f8",
+        "key": "Efat124",
+        "expirydate": "30-11-2025",
+        "Allowoffline": true
+     }   
 ]
